@@ -1,1 +1,1 @@
-# python-cleanning-correlation-and-vizualization
+my sql queries from basic to advanced
