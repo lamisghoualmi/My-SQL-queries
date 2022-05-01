@@ -1,1 +1,1 @@
-my sql queries from basic to advanced
+my sql queries practice from basic to advanced
